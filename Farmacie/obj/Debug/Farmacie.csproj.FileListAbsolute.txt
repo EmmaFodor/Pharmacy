@@ -1,0 +1,94 @@
+C:\Users\Emma\Desktop\Farmacie\bin\Debug\Farmacie.exe.config
+C:\Users\Emma\Desktop\Farmacie\bin\Debug\Farmacie.exe
+C:\Users\Emma\Desktop\Farmacie\bin\Debug\Farmacie.pdb
+C:\Users\Emma\Desktop\Farmacie\obj\Debug\Farmacie.csprojAssemblyReference.cache
+C:\Users\Emma\Desktop\Farmacie\obj\Debug\Farmacie.Form1.resources
+C:\Users\Emma\Desktop\Farmacie\obj\Debug\Farmacie.Form2.resources
+C:\Users\Emma\Desktop\Farmacie\obj\Debug\Farmacie.Properties.Resources.resources
+C:\Users\Emma\Desktop\Farmacie\obj\Debug\Farmacie.csproj.GenerateResource.cache
+C:\Users\Emma\Desktop\Farmacie\obj\Debug\Farmacie.exe
+C:\Users\Emma\Desktop\Farmacie\obj\Debug\Farmacie.pdb
+C:\Users\Emma\Desktop\Farmacie\obj\Debug\Farmacie.Form3.resources
+C:\Users\Emma\Desktop\Farmacie\obj\Debug\Farmacie.Form4.resources
+C:\Users\Emma\Desktop\Farmacie\obj\Debug\Farmacie.Form5.resources
+C:\Users\Emma\Desktop\Farmacie\obj\Debug\Farmacie.Form6.resources
+C:\Users\Emma\Desktop\Farmacie\obj\Debug\Farmacie.Form7.resources
+C:\Users\Emma\Desktop\Farmacie\obj\Debug\Farmacie.Form8.resources
+C:\Users\Emma\Desktop\Farmacie\obj\Debug\Farmacie.Form9.resources
+C:\Users\Emma\Desktop\Farmacie\obj\Debug\Farmacie.Form10.resources
+C:\Users\Emma\Desktop\Atestat\Farmacie\bin\Debug\Farmacie.exe.config
+C:\Users\Emma\Desktop\Atestat\Farmacie\bin\Debug\Farmacie.exe
+C:\Users\Emma\Desktop\Atestat\Farmacie\bin\Debug\Farmacie.pdb
+C:\Users\Emma\Desktop\Atestat\Farmacie\obj\Debug\Farmacie.csprojAssemblyReference.cache
+C:\Users\Emma\Desktop\Atestat\Farmacie\obj\Debug\Farmacie.Form1.resources
+C:\Users\Emma\Desktop\Atestat\Farmacie\obj\Debug\Farmacie.Form10.resources
+C:\Users\Emma\Desktop\Atestat\Farmacie\obj\Debug\Farmacie.Form2.resources
+C:\Users\Emma\Desktop\Atestat\Farmacie\obj\Debug\Farmacie.Form3.resources
+C:\Users\Emma\Desktop\Atestat\Farmacie\obj\Debug\Farmacie.Form4.resources
+C:\Users\Emma\Desktop\Atestat\Farmacie\obj\Debug\Farmacie.Form5.resources
+C:\Users\Emma\Desktop\Atestat\Farmacie\obj\Debug\Farmacie.Form6.resources
+C:\Users\Emma\Desktop\Atestat\Farmacie\obj\Debug\Farmacie.Form7.resources
+C:\Users\Emma\Desktop\Atestat\Farmacie\obj\Debug\Farmacie.Form8.resources
+C:\Users\Emma\Desktop\Atestat\Farmacie\obj\Debug\Farmacie.Form9.resources
+C:\Users\Emma\Desktop\Atestat\Farmacie\obj\Debug\Farmacie.Properties.Resources.resources
+C:\Users\Emma\Desktop\Atestat\Farmacie\obj\Debug\Farmacie.csproj.GenerateResource.cache
+C:\Users\Emma\Desktop\Atestat\Farmacie\obj\Debug\Farmacie.exe
+C:\Users\Emma\Desktop\Atestat\Farmacie\obj\Debug\Farmacie.pdb
+D:\Poze XII\Proiecte istorie\Atestat\Farmacie\bin\Debug\Farmacie.exe.config
+D:\Poze XII\Proiecte istorie\Atestat\Farmacie\bin\Debug\Farmacie.exe
+D:\Poze XII\Proiecte istorie\Atestat\Farmacie\bin\Debug\Farmacie.pdb
+D:\Poze XII\Proiecte istorie\Atestat\Farmacie\obj\Debug\Farmacie.csproj.AssemblyReference.cache
+D:\Poze XII\Proiecte istorie\Atestat\Farmacie\obj\Debug\Farmacie.csproj.SuggestedBindingRedirects.cache
+D:\Poze XII\Proiecte istorie\Atestat\Farmacie\obj\Debug\Farmacie.Form1.resources
+D:\Poze XII\Proiecte istorie\Atestat\Farmacie\obj\Debug\Farmacie.Form10.resources
+D:\Poze XII\Proiecte istorie\Atestat\Farmacie\obj\Debug\Farmacie.Form2.resources
+D:\Poze XII\Proiecte istorie\Atestat\Farmacie\obj\Debug\Farmacie.Form3.resources
+D:\Poze XII\Proiecte istorie\Atestat\Farmacie\obj\Debug\Farmacie.Form4.resources
+D:\Poze XII\Proiecte istorie\Atestat\Farmacie\obj\Debug\Farmacie.Form5.resources
+D:\Poze XII\Proiecte istorie\Atestat\Farmacie\obj\Debug\Farmacie.Form6.resources
+D:\Poze XII\Proiecte istorie\Atestat\Farmacie\obj\Debug\Farmacie.Form7.resources
+D:\Poze XII\Proiecte istorie\Atestat\Farmacie\obj\Debug\Farmacie.Form8.resources
+D:\Poze XII\Proiecte istorie\Atestat\Farmacie\obj\Debug\Farmacie.Form9.resources
+D:\Poze XII\Proiecte istorie\Atestat\Farmacie\obj\Debug\Farmacie.Properties.Resources.resources
+D:\Poze XII\Proiecte istorie\Atestat\Farmacie\obj\Debug\Farmacie.csproj.GenerateResource.cache
+D:\Poze XII\Proiecte istorie\Atestat\Farmacie\obj\Debug\Farmacie.csproj.CoreCompileInputs.cache
+D:\Poze XII\Proiecte istorie\Atestat\Farmacie\obj\Debug\Farmacie.exe
+D:\Poze XII\Proiecte istorie\Atestat\Farmacie\obj\Debug\Farmacie.pdb
+C:\Users\fodor\OneDrive\Desktop\Atestat\Farmacie\bin\Debug\Farmacie.exe.config
+C:\Users\fodor\OneDrive\Desktop\Atestat\Farmacie\bin\Debug\Farmacie.exe
+C:\Users\fodor\OneDrive\Desktop\Atestat\Farmacie\bin\Debug\Farmacie.pdb
+C:\Users\fodor\OneDrive\Desktop\Atestat\Farmacie\obj\Debug\Farmacie.csproj.AssemblyReference.cache
+C:\Users\fodor\OneDrive\Desktop\Atestat\Farmacie\obj\Debug\Farmacie.csproj.SuggestedBindingRedirects.cache
+C:\Users\fodor\OneDrive\Desktop\Atestat\Farmacie\obj\Debug\Farmacie.Form1.resources
+C:\Users\fodor\OneDrive\Desktop\Atestat\Farmacie\obj\Debug\Farmacie.Form10.resources
+C:\Users\fodor\OneDrive\Desktop\Atestat\Farmacie\obj\Debug\Farmacie.Form2.resources
+C:\Users\fodor\OneDrive\Desktop\Atestat\Farmacie\obj\Debug\Farmacie.Form3.resources
+C:\Users\fodor\OneDrive\Desktop\Atestat\Farmacie\obj\Debug\Farmacie.Form4.resources
+C:\Users\fodor\OneDrive\Desktop\Atestat\Farmacie\obj\Debug\Farmacie.Form5.resources
+C:\Users\fodor\OneDrive\Desktop\Atestat\Farmacie\obj\Debug\Farmacie.Form6.resources
+C:\Users\fodor\OneDrive\Desktop\Atestat\Farmacie\obj\Debug\Farmacie.Form7.resources
+C:\Users\fodor\OneDrive\Desktop\Atestat\Farmacie\obj\Debug\Farmacie.Form8.resources
+C:\Users\fodor\OneDrive\Desktop\Atestat\Farmacie\obj\Debug\Farmacie.Properties.Resources.resources
+C:\Users\fodor\OneDrive\Desktop\Atestat\Farmacie\obj\Debug\Farmacie.csproj.GenerateResource.cache
+C:\Users\fodor\OneDrive\Desktop\Atestat\Farmacie\obj\Debug\Farmacie.csproj.CoreCompileInputs.cache
+C:\Users\fodor\OneDrive\Desktop\Atestat\Farmacie\obj\Debug\Farmacie.exe
+C:\Users\fodor\OneDrive\Desktop\Atestat\Farmacie\obj\Debug\Farmacie.pdb
+C:\Users\fodor\OneDrive\Desktop\An 3 sem 1\Testare\Atestat\Farmacie\bin\Debug\Farmacie.exe.config
+C:\Users\fodor\OneDrive\Desktop\An 3 sem 1\Testare\Atestat\Farmacie\bin\Debug\Farmacie.exe
+C:\Users\fodor\OneDrive\Desktop\An 3 sem 1\Testare\Atestat\Farmacie\bin\Debug\Farmacie.pdb
+C:\Users\fodor\OneDrive\Desktop\An 3 sem 1\Testare\Atestat\Farmacie\obj\Debug\Farmacie.csproj.AssemblyReference.cache
+C:\Users\fodor\OneDrive\Desktop\An 3 sem 1\Testare\Atestat\Farmacie\obj\Debug\Farmacie.csproj.SuggestedBindingRedirects.cache
+C:\Users\fodor\OneDrive\Desktop\An 3 sem 1\Testare\Atestat\Farmacie\obj\Debug\Farmacie.Form1.resources
+C:\Users\fodor\OneDrive\Desktop\An 3 sem 1\Testare\Atestat\Farmacie\obj\Debug\Farmacie.Form10.resources
+C:\Users\fodor\OneDrive\Desktop\An 3 sem 1\Testare\Atestat\Farmacie\obj\Debug\Farmacie.Form2.resources
+C:\Users\fodor\OneDrive\Desktop\An 3 sem 1\Testare\Atestat\Farmacie\obj\Debug\Farmacie.Form3.resources
+C:\Users\fodor\OneDrive\Desktop\An 3 sem 1\Testare\Atestat\Farmacie\obj\Debug\Farmacie.Form4.resources
+C:\Users\fodor\OneDrive\Desktop\An 3 sem 1\Testare\Atestat\Farmacie\obj\Debug\Farmacie.Form5.resources
+C:\Users\fodor\OneDrive\Desktop\An 3 sem 1\Testare\Atestat\Farmacie\obj\Debug\Farmacie.Form6.resources
+C:\Users\fodor\OneDrive\Desktop\An 3 sem 1\Testare\Atestat\Farmacie\obj\Debug\Farmacie.Form7.resources
+C:\Users\fodor\OneDrive\Desktop\An 3 sem 1\Testare\Atestat\Farmacie\obj\Debug\Farmacie.Form8.resources
+C:\Users\fodor\OneDrive\Desktop\An 3 sem 1\Testare\Atestat\Farmacie\obj\Debug\Farmacie.Properties.Resources.resources
+C:\Users\fodor\OneDrive\Desktop\An 3 sem 1\Testare\Atestat\Farmacie\obj\Debug\Farmacie.csproj.GenerateResource.cache
+C:\Users\fodor\OneDrive\Desktop\An 3 sem 1\Testare\Atestat\Farmacie\obj\Debug\Farmacie.csproj.CoreCompileInputs.cache
+C:\Users\fodor\OneDrive\Desktop\An 3 sem 1\Testare\Atestat\Farmacie\obj\Debug\Farmacie.exe
+C:\Users\fodor\OneDrive\Desktop\An 3 sem 1\Testare\Atestat\Farmacie\obj\Debug\Farmacie.pdb
